@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395940622306",
+    "project_id": "memory-game-c8197",
+    "storage_bucket": "memory-game-c8197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395940622306:android:3e15dddc48550b81a593bb",
+        "android_client_info": {
+          "package_name": "com.vivekapp.memeorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395940622306-d36db4a8ksccbs5vg298jd5fk1eahlts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qB4Qqi977JvcQKYlkK8q0_vqD9GJI-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395940622306-d36db4a8ksccbs5vg298jd5fk1eahlts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memeory Game</string>
+    <string name="game_name_example_memory_master">Game Name(example: memory_master)</string>
+    <string name="save">save</string>
+</resources>
