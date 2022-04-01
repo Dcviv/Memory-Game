@@ -13,7 +13,7 @@ class MemoryGameLogic(private val boardSize: BoardSize, private val customImages
         if(customImages==null) {
             val choosenImages: List<Int> = DEFAULT_ICONS.shuffled().take(boardSize.getNoOfPairs())
             val randomizedImagesList = (choosenImages + choosenImages).shuffled()
-            cards = randomizedImagesList.map { MemoryCard(it) }
+            cards = randomizedImagesList.map{ MemoryCard(it) }
         }
         else{
             val randomizedImageList= (customImages+customImages).shuffled()

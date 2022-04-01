@@ -5,5 +5,4 @@ data class MemoryCard(
     val imageUrl:String?=null,
     var isFaceUp: Boolean= false,
     var isMatched :Boolean= false
-
 )
